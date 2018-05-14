@@ -1,0 +1,552 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"rese",
+				"reset"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"add",
+				"add"
+			],
+			[
+				"mode",
+				"modeButtons"
+			],
+			[
+				"qu",
+				"querySelectorAll"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"colo",
+				"background-color"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"n",
+				"numSquares"
+			],
+			[
+				"sq",
+				"squares"
+			],
+			[
+				"pic",
+				"pickedColor"
+			],
+			[
+				"picked",
+				"pickedColor"
+			],
+			[
+				"ea",
+				"easyBtn"
+			],
+			[
+				"picke",
+				"pickedColor"
+			],
+			[
+				"pick",
+				"pickColor"
+			],
+			[
+				"gene",
+				"generateRandomColors"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"ra",
+				"randomColor"
+			],
+			[
+				"cha",
+				"changeColors"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"message",
+				"messageDisplay"
+			],
+			[
+				"messa",
+				"messageDisplay"
+			],
+			[
+				"clicked",
+				"clickedColor"
+			],
+			[
+				"color",
+				"colorDisplay"
+			],
+			[
+				"squa",
+				"squares"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"p1",
+				"p1Score"
+			],
+			[
+				"winn",
+				"winningScore"
+			],
+			[
+				"wi",
+				"winningScoreDisplay"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"c",
+				"classList"
+			],
+			[
+				"p2",
+				"p2Display"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"C",
+				"classList"
+			],
+			[
+				"p2S",
+				"p2Display"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"A",
+				"addTodo"
+			],
+			[
+				"todo",
+				"todo"
+			],
+			[
+				"new",
+				"newTodo"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"con",
+				"counter"
+			],
+			[
+				"full",
+				"fullName"
+			],
+			[
+				"la",
+				"lastName"
+			],
+			[
+				"fis",
+				"firstName"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"col",
+				"col-md-2"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"btn",
+				"btn-xs"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"a",
+				"agreed"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 381.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/JOKICA/Downloads/methodsJQuery/methods.html",
+		"/C/Users/JOKICA/Downloads/exerciseJQuery/exercise.html",
+		"/C/Users/JOKICA/Downloads/exerciseJQuery/exercise.js",
+		"/C/Users/JOKICA/Downloads/exercise.html",
+		"/C/Users/JOKICA/Downloads/exercise.js",
+		"/C/Users/JOKICA/Downloads/Demo/JQuery Demo.html",
+		"/C/Users/JOKICA/Downloads/exerciseJQ.html",
+		"/C/Users/JOKICA/Downloads/exercise/exercise.js",
+		"/C/Users/JOKICA/Downloads/exercise/exerciseJQ.html",
+		"/C/Users/JOKICA/Downloads/exercise JQuery/exercise.js",
+		"/C/Users/JOKICA/Downloads/exercise JQuery/ExerciseJQ.html",
+		"/C/Users/JOKICA/Downloads/JQuery Demo.html",
+		"/C/Users/JOKICA/Downloads/color game/colorGame.js",
+		"/C/Users/JOKICA/Downloads/color game/colorgame.css",
+		"/C/Users/JOKICA/Downloads/color game/colorGame.html",
+		"/C/Users/JOKICA/Downloads/todo.html",
+		"/C/Users/JOKICA/Downloads/todos.css",
+		"/C/Users/JOKICA/Downloads/todo.js",
+		"/C/Users/JOKICA/Downloads/score.html",
+		"/C/Users/JOKICA/Downloads/score.css",
+		"/C/Users/JOKICA/Downloads/score.js",
+		"/C/Users/JOKICA/Downloads/Color toggle/color.js",
+		"/C/Users/JOKICA/Downloads/Color toggle/color toggle.html",
+		"/C/Users/JOKICA/Downloads/color toggle.html",
+		"/C/Users/JOKICA/Downloads/array problem set/ArraySet.html",
+		"/C/Users/JOKICA/Downloads/array problem set/array.js",
+		"/C/Users/JOKICA/Downloads/list/list.html",
+		"/C/Users/JOKICA/Downloads/list/list.js",
+		"/C/Users/JOKICA/Downloads/Functions/solution.js",
+		"/C/Users/JOKICA/Downloads/Functions/index.html",
+		"/C/Users/JOKICA/Downloads/ForLoops/ForLoops.html",
+		"/C/Users/JOKICA/Downloads/ForLoops/ForLoops.js",
+		"/C/Users/JOKICA/Downloads/While loops/loops.js",
+		"/C/Users/JOKICA/Downloads/While loops/while.html",
+		"/C/Users/JOKICA/Downloads/Anooy.js/script.js",
+		"/C/Users/JOKICA/Downloads/Anooy.js/Annoy.html",
+		"/C/Users/JOKICA/Downloads/New folder/script.js",
+		"/C/Users/JOKICA/Downloads/New folder/Annoy.html",
+		"/C/Users/JOKICA/Downloads/Annoy",
+		"/C/Users/JOKICA/Downloads/happy birthday/happy.html",
+		"/C/Users/JOKICA/Downloads/happy birthday/script.js",
+		"/C/Users/JOKICA/Downloads/calc.js/calc.js",
+		"/C/Users/JOKICA/Downloads/calc.js/calc.html",
+		"/C/Users/JOKICA/Downloads/Stalker JS/script.js",
+		"/C/Users/JOKICA/Downloads/Stalker JS/stalker.html",
+		"/C/Users/JOKICA/Downloads/stalker.html",
+		"/C/Users/JOKICA/Downloads/JSFiles.html",
+		"/C/Users/JOKICA/Downloads/script.js",
+		"/C/Users/JOKICA/Downloads/index.html",
+		"/C/Users/JOKICA/Downloads/gallery.html",
+		"/C/Users/JOKICA/Downloads/app.css",
+		"/C/Users/JOKICA/Downloads/Image_Gallery_Solution/gallery.html",
+		"/C/Users/JOKICA/Downloads/gallery.css",
+		"/C/Users/JOKICA/Downloads/07_Image_Gallery/gallery.md",
+		"/C/Users/JOKICA/Downloads/grid.html",
+		"/C/Users/JOKICA/Downloads/navbars.html",
+		"/C/Users/JOKICA/Downloads/bootstrap-3.3.7-dist/css/navbars.html",
+		"/C/Users/JOKICA/Downloads/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/C/Users/JOKICA/Downloads/basic/basic.html",
+		"/C/Users/JOKICA/Downloads/basic/bootstrap.css.map",
+		"/C/Users/JOKICA/Downloads/basic.html",
+		"/C/Users/JOKICA/Downloads/bootstrap-3.3.7-dist/js/bootstrap.min.js",
+		"/C/Users/JOKICA/Downloads/basics/basics.html",
+		"/C/Users/JOKICA/Downloads/basics/basics.html.html",
+		"/C/Users/JOKICA/Downloads/basics.html",
+		"/C/Users/JOKICA/Downloads/bootstrap-3.3.7-dist/css/bootstrap.css.map",
+		"/C/Users/JOKICA/Downloads/blog.css",
+		"/C/Users/JOKICA/Downloads/blog.html",
+		"/C/Users/JOKICA/Downloads/photos.css",
+		"/C/Users/JOKICA/Downloads/photoGrid.html",
+		"/C/Users/JOKICA/Downloads/07_ImageBlog1/imageLinks.html",
+		"/C/Users/JOKICA/Downloads/TicTacToe.html",
+		"/C/Users/JOKICA/Downloads/04_Box_Model/boxmodel.html",
+		"/C/Users/JOKICA/Downloads/04_Box_Model/style.css",
+		"/C/Users/JOKICA/Downloads/01_Fonts_Intro/fonts.html",
+		"/C/Users/JOKICA/Downloads/01_Fonts_Intro/styles.css",
+		"/C/Program Files/Sublime Text 3/Fonts",
+		"/C/Users/JOKICA/Downloads/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/C/Users/JOKICA/Downloads/09_Selector_Exercise_Starter/selectors.css",
+		"/C/Users/JOKICA/Downloads/register.html",
+		"/C/Users/JOKICA/Downloads/ToDoList.html",
+		"/C/Users/JOKICA/Downloads/registation form.html",
+		"/C/Users/JOKICA/Downloads/forms.html",
+		"/C/Users/JOKICA/Downloads/inputs.html",
+		"/C/Users/JOKICA/Downloads/pokemon.html",
+		"/C/Users/JOKICA/Downloads/Rusty.html",
+		"/C/Users/JOKICA/Downloads/solution.html",
+		"/C/Users/JOKICA/Downloads/Rusty"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Circles.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 127.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"jumbotron"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

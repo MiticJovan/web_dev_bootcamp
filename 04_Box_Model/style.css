@@ -1,0 +1,19 @@
+p {
+
+/*Content - Width and Height*/
+width:50%;
+
+
+/*Border*/
+border: 4px solid blue;
+
+
+/*padding*/
+
+/*padding: 10px;*/
+padding-right: 40px;
+
+/*margin*/
+/*margin:auto;*/
+margin: 50px 20px;
+}
